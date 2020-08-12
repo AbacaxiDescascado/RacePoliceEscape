@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "RacePoliceEscapePc1.0.1"
+    versionCode = "10"
+    version     = "1.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Race: Police Escape</name>
+
+  <description>
+      Here's a fun project.
+  </description>
+
+  <author href="https://twitter.co/ADescascado" email="joninhabernardoca7@gmail.com.com">
+      Jonas Bernardino(AbacaxiDescascado)
+  </author>
+
+	<icon src="icon.png">
+
+</widget>
